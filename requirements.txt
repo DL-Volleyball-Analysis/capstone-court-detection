@@ -1,0 +1,9 @@
+# Volleyball Court Detection - Dependencies
+onnxruntime>=1.22.0
+opencv-python>=4.12.0.88
+pandas>=2.3.1
+numpy>=1.24.0
+scipy>=1.16.0
+tqdm>=4.67.1
+matplotlib>=3.10.5
+seaborn>=0.13.2

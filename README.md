@@ -4,6 +4,8 @@ A complete volleyball ball landing detection pipeline with court boundary detect
 
 完整的排球落地點偵測流程，包含場地邊界檢測和 IN/OUT 判定。
 
+[![Website](https://img.shields.io/badge/Website-VolleyVision%20AI-0033A0)](https://dl-volleyball-analysis.github.io/volleyvision-website/)
+
 ---
 
 ## Features | 功能特色
@@ -198,8 +200,11 @@ The model uses a 9-frame grayscale sequence to capture ball motion patterns for 
 
 ## Related Projects | 相關專案
 
-- [volleyball_analysis_webapp](https://github.com/DL-Volleyball-Analysis/volleyball_analysis_webapp) - Main web application
-- [action-recognition-yolov11](https://github.com/DL-Volleyball-Analysis/action-recognition-yolov11) - Action recognition training
+| Project | Description |
+|---------|-------------|
+| [volleyvision-website](https://github.com/DL-Volleyball-Analysis/volleyvision-website) | Landing page website |
+| [volleyball_analysis_webapp](https://github.com/DL-Volleyball-Analysis/volleyball_analysis_webapp) | Main web application |
+| [action-recognition-yolov11](https://github.com/DL-Volleyball-Analysis/action-recognition-yolov11) | Action recognition training |
 
 ---
 

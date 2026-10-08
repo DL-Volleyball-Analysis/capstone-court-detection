@@ -1,3 +1,7 @@
+> **Archived (October 2026).** This repository is kept read-only for the record of the NTOU capstone.
+> Ongoing work, including court registration and landing detection, is in
+> [volleyball-analysis](https://github.com/DL-Volleyball-Analysis/volleyball-analysis).
+
 # Volleyball Court Detection | 排球場地與落點偵測
 
 A complete volleyball ball landing detection pipeline with court boundary detection and IN/OUT classification.

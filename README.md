@@ -27,7 +27,7 @@ shot (0.49 m median error on held-out images), and landings are judged in court 
 | `src/postprocess_inout_patched_v3.py` | landing detection and IN/OUT with the HUD overlay |
 
 The VballNet ONNX models (from [fast-volleyball-tracking-inference](https://github.com/asigatchov/fast-volleyball-tracking-inference), MIT) were removed from the latest version to keep the repository light; they remain in the history at
-[`b8e756a`](https://github.com/DL-Volleyball-Analysis/volleyball-court-detection/tree/b8e756a).
+[`b8e756a`](https://github.com/DL-Volleyball-Analysis/capstone-court-detection/tree/b8e756a).
 
 ## Team
 Liang Yu-Jia 梁祐嘉 (lead), Tsai Pei-Ying 蔡佩穎, Chung Chia-Hsin 鍾佳芯; advisor Professor Ting Pei-Yi 丁培毅.
